@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello there! 👋
+
+My name is Lucas Lima and this is my github.
 
 <!--
 **lucassauro/lucassauro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
