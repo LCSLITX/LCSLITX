@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucassauro&count_private=true&show_icons=true&theme=github_dark" alt="Anurag's GitHub stats"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassauro&count_private=true&theme=github_dark" alt="Top languages" height="196" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassauro&count_private=true&theme=github_dark" alt="Top languages" height="194" />
 </a>
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
