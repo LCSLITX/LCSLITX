@@ -6,11 +6,11 @@ I've graduated in Law (LLB) at the end of 2020 and decided to study programming.
   
   [![Profile](https://komarev.com/ghpvc/?username=lucassauro&message=Visits&color=955bfb)](https://github.com/lucassauro)
   
-  [![Portfolio](https://img.shields.io/static/v1?&label=Portfolio&message=Github+pages&color=955bfb&style=flat)](http://lucassauro.github.io)
+  [![Portfolio](https://img.shields.io/static/v1?&label=Check+out&message=My+portfolio&color=955bfb&style=flat)](http://lucassauro.github.io)
   
-  [![LinkedIn](https://img.shields.io/static/v1?logo=linkedin&label=linkedin&message=Lucas&color=blue)](https://www.linkedin.com/in/lucas-lima-teixeira/)
+  [![LinkedIn](https://img.shields.io/static/v1?logo=linkedin&label=Linkedin&message=Lucas&color=blue)](https://www.linkedin.com/in/lucas-lima-teixeira/)
   
-  [![wakatime](https://wakatime.com/badge/user/c9ea92f1-9424-4e76-9310-0d296f97b568.svg)](https://wakatime.com/@lucassauro)
+  [![Wakatime](https://Wakatime.com/badge/user/c9ea92f1-9424-4e76-9310-0d296f97b568.svg)](https://Wakatime.com/@lucassauro)
 
        
 </div>
