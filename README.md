@@ -1,6 +1,8 @@
-### Hello. My name is Lucas Lima.
+<div align="center">
+  <h1>Hello, World! 👋 I'm Lucas Lima from Brazil. 🇧🇷 </h1>
+</div>
 
-I've graduated in Law (LLB) at the end of 2020 and decided to study programming. I joined Trybe and will start Bachelor of Software Engineering at the beginning of 2022.
+I've graduated in Law (LLB) at the end of 2020 and decided to study programming. I joined Trybe on 2021 and started Bachelor of Computer Science at start of 2022.
 
 <div>
   
