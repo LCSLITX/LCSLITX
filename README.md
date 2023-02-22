@@ -20,10 +20,10 @@ I've graduated in Law (LLB) at the end of 2020 and decided to study programming.
 </div>
 
 <!-- <div align="center"> -->
-  <br>
+<!--   <br>
   <a href="https://github.com/lucassauro">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucassauro&count_private=true&show_icons=true&theme=github_dark" alt="Anurag's GitHub stats"/>
-  </a>
+  </a> -->
   
 <!--   <a href="https://wakatime.com/@lucassauro">
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=lucassauro&theme=github_dark" alt="willianrod's wakatime stats" />
