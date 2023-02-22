@@ -8,6 +8,8 @@ I've graduated in Law (LLB) at the end of 2020 and decided to study programming.
   
   [![Profile](https://komarev.com/ghpvc/?username=lucassauro&message=Visits&color=955bfb)](https://github.com/lucassauro)
   
+  [![Reddit](https://img.shields.io/static/v1?logo=reddit&logoColor=white&label=Reddit&message=Lucassaur0&color=orange)](https://www.reddit.com/user/Lucassaur0)
+  
   [![LinkedIn](https://img.shields.io/static/v1?logo=linkedin&label=Linkedin&message=Lucas+Lima&color=blue)](https://www.linkedin.com/in/lucas-lima-teixeira/)
   
   [![Portfolio](https://img.shields.io/static/v1?logo=hackerrank&label=HackerRank&message=Lucassauro&color=1ba94c&style=flat)](https://www.hackerrank.com/lucassauro)
