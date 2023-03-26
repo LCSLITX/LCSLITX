@@ -2,7 +2,8 @@
   <h1>Hello, World! 👋 I'm Lucas Lima from Brazil. 🇧🇷 </h1>
 </div>
 
-I've graduated in Law (LLB) at the end of 2020 and decided to study programming. Currently studying at FIAP.
+I've graduated in Law (LLB) at the end of 2020 and decided to work with programming. 
+I'm a Backend Developer and currently studying at FIAP.
 
 <div>
   
