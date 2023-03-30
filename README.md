@@ -7,7 +7,7 @@ I'm a Backend Developer and currently studying at FIAP.
 
 <div>
   
-  [![Profile](https://komarev.com/ghpvc/?username=lucassauro&message=Visits&color=955bfb)](https://github.com/lucassauro)
+  [![Profile](https://komarev.com/ghpvc/?username=lcslitx&message=Visits&color=955bfb)](https://github.com/lcslitx)
   
   [![Reddit](https://img.shields.io/static/v1?logo=reddit&logoColor=white&label=Reddit&message=Lucassaur0&color=orange)](https://www.reddit.com/user/Lucassaur0)
   
@@ -17,25 +17,4 @@ I'm a Backend Developer and currently studying at FIAP.
   
   [![Wakatime](https://Wakatime.com/badge/user/c9ea92f1-9424-4e76-9310-0d296f97b568.svg)](https://Wakatime.com/@lucassauro)
 
-       
 </div>
-
-<!-- <div align="center"> -->
-<!--   <br>
-  <a href="https://github.com/lucassauro">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucassauro&count_private=true&show_icons=true&theme=github_dark" alt="Anurag's GitHub stats"/>
-  </a> -->
-  
-<!--   <a href="https://wakatime.com/@lucassauro">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=lucassauro&theme=github_dark" alt="willianrod's wakatime stats" />
-  </a> -->
-
-<!--   <a href="https://github.com/lucassauro">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassauro&count_private=true&theme=github_dark" alt="Top languages" height="195" />
-  </a> -->
-
-<!-- </div> -->
-
-
-
-* * *
