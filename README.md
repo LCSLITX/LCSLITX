@@ -8,9 +8,7 @@ I'm a Backend Developer and currently studying at FIAP.
 <div>
   
   [![Profile](https://komarev.com/ghpvc/?username=lcslitx&message=Visits&color=955bfb)](https://github.com/lcslitx)
-  
-  [![Reddit](https://img.shields.io/static/v1?logo=reddit&logoColor=white&label=Reddit&message=Lucassaur0&color=orange)](https://www.reddit.com/user/Lucassaur0)
-  
+   
   [![LinkedIn](https://img.shields.io/static/v1?logo=linkedin&label=Linkedin&message=Lucas+Lima&color=blue)](https://www.linkedin.com/in/lucas-lima-teixeira/)
   
   [![Portfolio](https://img.shields.io/static/v1?logo=hackerrank&label=HackerRank&message=Lucassauro&color=1ba94c&style=flat)](https://www.hackerrank.com/lucassauro)
