@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hello, World! 👋 I'm Lucas Lima from Brazil. 🇧🇷 </h1>
+  <h1>Hello, World! 👋 I'm Lucas. </h1>
 </div>
 
 I've graduated in Law (LLB) at the end of 2020 and decided to work with programming. 
