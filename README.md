@@ -2,8 +2,8 @@
   <h1>Hello, World! 👋 I'm Lucas. </h1>
 </div>
 
-I've graduated in Law (LLB) at the end of 2020 and decided to work with programming. 
-I'm a Backend Developer and currently studying at FIAP.
+I'm a Juris Doctor who decided to work with programming. 
+Currently, I'm a Backend Developer and studying at FIAP.
 
 <div>
   
