@@ -3,7 +3,7 @@
 </div>
 
 I'm a Juris Doctor who decided to work with programming. 
-Currently, I'm a Backend Developer and studying at FIAP.
+Currently, I'm a Backend Developer.
 
 <div>
   
